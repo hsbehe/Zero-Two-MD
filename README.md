@@ -14,14 +14,18 @@
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
 -  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
-- `Open Heroku` > choose app > Resources > Tap on Pencil and Turn on Dynos
+- `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
 -  Wait 12 second and Tap on `Open App`
 -  Scan Qr and your bot is working now
--  type -json and you'll get your session.sam.json text
--  Go in your forked repo create file with name session.sam.json and paste it there
+-  type -session and you'll get your session.sam.json file at your log number
+-  Go in your forked repo tap on `Upload Files` and upload your session.sam.json
 -  Connect Your app with GitHub and deploy branch and it's `Done`.
 
 - `Thank me later.`
+  
+ [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/BbNDz0PbnIk)
+  
+ [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
