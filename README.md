@@ -1,7 +1,5 @@
 <h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
-<p align="center">
-  <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
-</p>
+
 
 <p align="center"> 
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
