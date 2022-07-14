@@ -1,33 +1,39 @@
 <h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+
 <p align="center">
-  <img src="https://wallpapercave.com/uwp/uwp2350296.jpeg" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
+
+  <img src="https://user-images.githubusercontent.com/104565822/177012232-97866d97-0798-4ca2-9e56-5d0a2413642b.png" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
+
 </p>
 
+
 <p align="center"> 
+
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
-  
-![Total Repo views](https://gpvc.arturio.dev/sampandey001)
-  
-![](https://github-readme-stats.vercel.app/api/pin/?username=sampandey001&repo=zero-two-md&theme=dark)
-                                                                                                                                             
+
+   
+### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
--  Click on deploy button and Fill `Config Vars` ,process may take upto 10 min
-- `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
--  Wait 12 second and Tap on `Open App`
--  Scan Qr and your bot is working now
--  type -session and you'll get your session.sam.json file at your log number
--  Go in your forked repo tap on `Upload Files` and upload your session.sam.json
--  Connect Your app with GitHub and deploy branch and it's `Done`.
+-  Click on `Scan Qr` button down blew
+-  `Open WhatsApp` > `Tap on three dot` > `Linked Devices` > `Link a Device`
+-  You'll get `SESSION_ID` in your log number,Keep it safe
+-  Click on `Deploy` text in Image down blew 
+-  Fill `Config Vars` and SESSION_ID which you acquired before and Tap on `DEPLOY`
+-  `Open Heroku` > `choose app` > `Resources` > `Tap on Pencil` and `Turn on Dynos`
+-  Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
-  
- [![](https://img.shields.io/badge/Zero--Two--MD-Hosting%20Process%20Video-brightgreen)](https://youtu.be/BbNDz0PbnIk)
-  
- [![Run on Repl.it](https://repl.it/badge/github/fantox001/ZERO-TWO-MD)](https://replit.com/@sampandey/Zero-Two)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+  
+
+  
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
+  
+[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
 ## Whatsapp Group
 
@@ -277,6 +283,8 @@ npm start
 - [XEON](https://github.com/dgxeon)
 
 
+
+
 ## Developers
 
 [![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
@@ -288,6 +296,9 @@ Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | 
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
+
+
+
 
 ## Contributing
 Feel free to contribute.
