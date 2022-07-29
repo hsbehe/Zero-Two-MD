@@ -1,6 +1,4 @@
 FROM node:lts-buster
-RUN git clone https:github.com/SamPandey001/Zero-Two-MDgit /root/SamPandey001/
-WORKDIR /root/SamPandey001/
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
@@ -16,3 +14,4 @@ RUN npm i cfonts
 RUN npm install --location=global pm2
 
 CMD ["pm2-runtime", "start", "franxx.js"]
+
